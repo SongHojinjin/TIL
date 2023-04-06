@@ -35,3 +35,8 @@
 - `git log` 커밋내역을 출력
   - `git log --oneline`, `git shortlog` 로 간단하게 출력가능
 - `git status` 파일의 변경 내역 등을 출력
+
+## 2023-04-07 
+  - 스테이지에서 내리기
+    - `git reset` // 최근 파일 내리기
+    - `git reset` 파일 경로 // 경로 상 파일 내리기
